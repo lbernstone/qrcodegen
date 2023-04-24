@@ -1,0 +1,39 @@
+# Datatypes (KEYWORD1)
+qrcodegen_ecc                    KEYWORD1
+qrcodegen_Mask                   KEYWORD1
+qrcodegen_Segment                KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+qrcodegen_BUFFER_LEN_FOR_VERSION KEYWORD2
+qrcodegen_encodeText             KEYWORD2
+qrcodegen_encodeBinary           KEYWORD2
+qrcodegen_encodeSegments         KEYWORD2
+qrcodegen_encodeSegmentsAdvanced KEYWORD2
+qrcodegen_isNumeric              KEYWORD2
+qrcodegen_isAlphanumeric         KEYWORD2
+qrcodegen_calcSegmentBufferSize  KEYWORD2
+qrcodegen_makeBytes              KEYWORD2
+qrcodegen_makeNumeric            KEYWORD2
+qrcodegen_makeAlphanumeric       KEYWORD2
+qrcodegen_makeEci                KEYWORD2
+qrcodegen_getSize                KEYWORD2
+qrcodegen_getModule              KEYWORD2
+
+# Constants (LITERAL1)
+qrcodegen_Mask_AUTO              LITERAL1
+qrcodegen_Mask_0                 LITERAL1
+qrcodegen_Mask_1                 LITERAL1
+qrcodegen_Mask_2                 LITERAL1
+qrcodegen_Mask_3                 LITERAL1
+qrcodegen_Mask_4                 LITERAL1
+qrcodegen_Mask_5                 LITERAL1
+qrcodegen_Mask_6                 LITERAL1
+qrcodegen_Mask_7                 LITERAL1
+qrcodegen_Mode_NUMERIC           LITERAL1
+qrcodegen_Mode_ALPHANUMERIC      LITERAL1
+qrcodegen_Mode_BYTE              LITERAL1
+qrcodegen_Mode_KANJI             LITERAL1
+qrcodegen_Mode_ECI               LITERAL1
+qrcodegen_VERSION_MIN            LITERAL1
+qrcodegen_VERSION_MAX            LITERAL1
+qrcodegen_BUFFER_LEN_MAX         LITERAL1
